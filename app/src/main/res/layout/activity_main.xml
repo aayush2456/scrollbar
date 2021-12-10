@@ -42,6 +42,7 @@
                 android:layout_width="match_parent"
                 android:autoLink="web"
                 android:layout_marginEnd="@dimen/cardview_compat_inset_shadow"
+                android:layout_marginLeft="@dimen/cardview_compat_inset_shadow"
                 android:layout_height="wrap_content"
                 android:text="@string/css_definitions" />
         </LinearLayout>
