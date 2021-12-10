@@ -10,33 +10,35 @@
     <TextView
         android:id="@+id/article_heading"
         android:layout_width="match_parent"
-        android:layout_height="48dp"
+        android:layout_height="53dp"
         android:background="#2341AE"
-        android:text="@string/css" />
+        android:text="@string/css"
+        android:textSize="48sp" />
 
     <TextView
         android:id="@+id/article_subheading"
         android:layout_width="match_parent"
-        android:layout_height="81dp"
+        android:layout_height="49dp"
         android:layout_below="@+id/article_heading"
         android:layout_alignParentStart="true"
         android:layout_alignParentEnd="true"
         android:layout_marginStart="0dp"
-        android:layout_marginTop="2dp"
+        android:layout_marginTop="0dp"
         android:layout_marginEnd="0dp"
         android:background="#2196F3"
-        android:text="@string/css_definition" />
+        android:text="@string/css_definition"
+        android:textSize="24sp" />
 
     <TextView
         android:id="@+id/article"
         android:layout_width="match_parent"
-        android:layout_height="595dp"
+        android:layout_height="588dp"
         android:layout_below="@+id/article_subheading"
         android:layout_alignParentStart="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
         android:layout_marginStart="0dp"
-        android:layout_marginTop="3dp"
+        android:layout_marginTop="5dp"
         android:layout_marginEnd="0dp"
         android:layout_marginBottom="2dp"
         android:text="@string/css_definitions" />
