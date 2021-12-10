@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ScrollText</string>
+    <string name="css_definition">CSS Definition</string>
+    <string name="css">CSS</string>
+    <string name="css_definitions">The definition of CSS on this page is an original TechTerms.com definition. If you would like to reference this page or cite this definition, you can use the green citation links above.
+
+The goal of TechTerms.com is to explain computer terminology in a way that is easy to understand. We strive for simplicity and accuracy with every definition we publish. If you have feedback about the CSS definition or would like to suggest a new technical term, please contact us.
+
+Want to learn more tech terms? Subscribe to the daily or weekly newsletter and get featured terms and quizzes delivered to your inbox.</string>
+</resources>
